@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.223b60ac.chunk.css",
+    "main.js": "/static/js/main.b59e1bae.chunk.js",
+    "main.js.map": "/static/js/main.b59e1bae.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6c670bdb.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6c670bdb.js.map",
+    "static/js/2.f058e336.chunk.js": "/static/js/2.f058e336.chunk.js",
+    "static/js/2.f058e336.chunk.js.map": "/static/js/2.f058e336.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.62d2442a43099406fcae2501bcb5ad55.js": "/precache-manifest.62d2442a43099406fcae2501bcb5ad55.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.223b60ac.chunk.css.map": "/static/css/main.223b60ac.chunk.css.map",
+    "static/js/2.f058e336.chunk.js.LICENSE.txt": "/static/js/2.f058e336.chunk.js.LICENSE.txt",
+    "static/media/about.md": "/static/media/about.79511c64.md",
+    "static/media/download.png": "/static/media/download.2f73a098.png",
+    "static/media/food_1.jpg": "/static/media/food_1.1f0ac8fa.jpg",
+    "static/media/food_2.jpg": "/static/media/food_2.d3a19dbc.jpg",
+    "static/media/lunar-landing.gif": "/static/media/lunar-landing.240f733d.gif",
+    "static/media/lunar-landing.jpg": "/static/media/lunar-landing.ad1f1788.jpg",
+    "static/media/mac_1.png": "/static/media/mac_1.6c47d1b7.png",
+    "static/media/open-ended.mp3": "/static/media/open-ended.4ab937d5.mp3",
+    "static/media/website_1.png": "/static/media/website_1.be37616b.png",
+    "static/media/website_2.png": "/static/media/website_2.15757e5c.png",
+    "static/media/website_3.png": "/static/media/website_3.78914ba9.png",
+    "static/media/winget_1.jpg": "/static/media/winget_1.bf6e2935.jpg",
+    "static/media/winget_2.jpg": "/static/media/winget_2.17877bd7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c670bdb.js",
+    "static/js/2.f058e336.chunk.js",
+    "static/css/main.223b60ac.chunk.css",
+    "static/js/main.b59e1bae.chunk.js"
+  ]
+}
