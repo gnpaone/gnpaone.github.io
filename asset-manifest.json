@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.67846d95.css",
+    "main.css": "/static/css/main.6635e652.css",
     "main.js": "/static/js/main.cc84655b.js",
     "static/media/download.png": "/static/media/download.dd4b634dcca382b78739.png",
     "static/media/website_2.png": "/static/media/website_2.f11b959c3b3515ec0f8e.png",
@@ -15,11 +15,11 @@
     "static/media/open-ended.mp3": "/static/media/open-ended.78c95b24fc17dcd1ddd9.mp3",
     "static/media/lunar-landing.jpg": "/static/media/lunar-landing.5200448beb60af121c6a.jpg",
     "index.html": "/index.html",
-    "main.67846d95.css.map": "/static/css/main.67846d95.css.map",
+    "main.6635e652.css.map": "/static/css/main.6635e652.css.map",
     "main.cc84655b.js.map": "/static/js/main.cc84655b.js.map"
   },
   "entrypoints": [
-    "static/css/main.67846d95.css",
+    "static/css/main.6635e652.css",
     "static/js/main.cc84655b.js"
   ]
 }
